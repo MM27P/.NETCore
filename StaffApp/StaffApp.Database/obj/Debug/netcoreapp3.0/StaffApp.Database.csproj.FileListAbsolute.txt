@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\StaffApp\StaffApp.Database\bin\Debug\netcoreapp3.0\StaffApp.Database.deps.json
+C:\Users\Admin\source\repos\StaffApp\StaffApp.Database\bin\Debug\netcoreapp3.0\StaffApp.Database.runtimeconfig.json
+C:\Users\Admin\source\repos\StaffApp\StaffApp.Database\bin\Debug\netcoreapp3.0\StaffApp.Database.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\StaffApp\StaffApp.Database\bin\Debug\netcoreapp3.0\StaffApp.Database.dll
+C:\Users\Admin\source\repos\StaffApp\StaffApp.Database\bin\Debug\netcoreapp3.0\StaffApp.Database.pdb
+C:\Users\Admin\source\repos\StaffApp\StaffApp.Database\obj\Debug\netcoreapp3.0\StaffApp.Database.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\StaffApp\StaffApp.Database\obj\Debug\netcoreapp3.0\StaffApp.Database.AssemblyInfo.cs
+C:\Users\Admin\source\repos\StaffApp\StaffApp.Database\obj\Debug\netcoreapp3.0\StaffApp.Database.dll
+C:\Users\Admin\source\repos\StaffApp\StaffApp.Database\obj\Debug\netcoreapp3.0\StaffApp.Database.pdb
+C:\Users\Admin\source\repos\StaffApp\StaffApp.Database\obj\Debug\netcoreapp3.0\StaffApp.Database.csprojAssemblyReference.cache

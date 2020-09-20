@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\StaffApp\StaffApp.Services\bin\Debug\netcoreapp3.0\StaffApp.Services.deps.json
+C:\Users\Admin\source\repos\StaffApp\StaffApp.Services\bin\Debug\netcoreapp3.0\StaffApp.Services.dll
+C:\Users\Admin\source\repos\StaffApp\StaffApp.Services\bin\Debug\netcoreapp3.0\StaffApp.Services.pdb
+C:\Users\Admin\source\repos\StaffApp\StaffApp.Services\bin\Debug\netcoreapp3.0\StaffApp.Database.dll
+C:\Users\Admin\source\repos\StaffApp\StaffApp.Services\bin\Debug\netcoreapp3.0\StaffApp.Database.pdb
+C:\Users\Admin\source\repos\StaffApp\StaffApp.Services\obj\Debug\netcoreapp3.0\StaffApp.Services.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\StaffApp\StaffApp.Services\obj\Debug\netcoreapp3.0\StaffApp.Services.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\StaffApp\StaffApp.Services\obj\Debug\netcoreapp3.0\StaffApp.Services.AssemblyInfo.cs
+C:\Users\Admin\source\repos\StaffApp\StaffApp.Services\obj\Debug\netcoreapp3.0\StaffApp.Services.csproj.CopyComplete
+C:\Users\Admin\source\repos\StaffApp\StaffApp.Services\obj\Debug\netcoreapp3.0\StaffApp.Services.dll
+C:\Users\Admin\source\repos\StaffApp\StaffApp.Services\obj\Debug\netcoreapp3.0\StaffApp.Services.pdb
